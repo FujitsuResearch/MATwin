@@ -1,0 +1,36 @@
+name: mattwin
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.8
+  - pip
+  - numpy=1.24.4
+  - scipy=1.10.1
+  - pandas=2.0.3
+  - matplotlib-base=3.7.3
+  - seaborn=0.13.2
+  - scikit-learn=1.3.2
+  - statsmodels=0.14.1
+  - pykrige=1.7.1
+  - networkx=3.1
+  - pytables=3.7.0
+  - numdifftools=0.9.41
+  - algopy=0.5.7
+  - sortedcontainers=2.4.0
+  - psutil=5.9.8
+  - requests=2.31.0
+  - beautifulsoup4=4.12.3
+  - shapely=1.8.5
+  - geopandas=0.13.2
+  - osmnx=1.2.2
+  - contextily=1.5.0
+  - folium=0.15.1
+  - branca=0.7.1
+  - jupyter=1.0.0
+  - pip:
+      - tensorflow-cpu==2.11.0
+      - census==0.8.21
+      - openmatrix==0.3.5.0
+      - papermill==2.6.0
+      - pytest==8.3.5
