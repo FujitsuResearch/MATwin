@@ -128,7 +128,7 @@ Apart from the model outputs in `examples/data/fig5` and the saved outputs of no
 
 ## License and credits
 
-MATwin is released under the MIT License (see [LICENSE](LICENSE)). Third-party dependencies and their licenses are listed in [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md). `src/mate`, `src/isuelogit` and `src/pesuelogit` are bundled copies of MIT-licensed packages by Pablo Guarda ([mate](https://github.com/pabloguarda/mate), [isuelogit](https://github.com/pabloguarda/isuelogit), [pesuelogit](https://github.com/pabloguarda/pesuelogit)), and all three have been modified.
+Copyright © 2026 Fujitsu Limited. MATwin is released under the MIT License (see [LICENSE](LICENSE)). Third-party dependencies and their licenses are listed in [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md). `src/mate`, `src/isuelogit` and `src/pesuelogit` are bundled copies of MIT-licensed packages by Pablo Guarda ([mate](https://github.com/pabloguarda/mate), [isuelogit](https://github.com/pabloguarda/isuelogit), [pesuelogit](https://github.com/pabloguarda/pesuelogit)), and all three have been modified.
 
 MaTE was developed by Pablo Guarda under the guidance of Prof. Sean Qian. If you use the MaTE model, please also cite:
 
